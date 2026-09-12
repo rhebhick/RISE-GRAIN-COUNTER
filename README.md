@@ -2,96 +2,72 @@
 
 
 
-# [Project Name] 🎯
+# RICE GRAIN COUNTER 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: TerrorBOYZ
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Dhaan joby - SNMIMT maliankara
+- Member 2:Rhebhick - SNMIMT maliankara
+
 
 ### Project Description
-[2-3 lines about what your project does]
-
+the goal of project is to predict the approximate number of rice grains from weight.
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+identifying number of rice grains
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+it uses mathematical equations based on the physical diamension
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML,javascript,python
+- Streamlit,react 19,Tailwind CSS v4
+- Numpy,Lucide React,Python Standard Library 
+- Python 3 & pip,vite,TypeScript,Node.js & npm
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+
+# 1. Clone or navigate into the project directory
+cd rice_grain_counter
+
+# 2. (Optional but recommended) Create and activate a virtual environment
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On macOS / Linux:
+source venv/bin/activate
+
+# 3. Install the required dependencies
+pip install -r requirements.txt
 
 # Run
-[commands]
+# Launch the Streamlit application
+streamlit run app.py
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot 2026-09-12 082106" src="https://github.com/user-attachments/assets/31094f81-d0f6-4729-a796-175c67687c93" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="1080" alt="Screenshot 2026-09-12 082130" src="https://github.com/user-attachments/assets/068f5d3e-2e21-41f7-b72e-d5ccde29f6da" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+<img width="1920" height="1080" alt="Screenshot 2026-09-12 082146" src="https://github.com/user-attachments/assets/76ea8c61-5038-4f9c-b7c0-a2bb0de44376" />
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1esR3phBQp-XIBLUsGSfyDMf-zRGL3Fkm/view?usp=drive_link
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Dhaan joby:coding
+- Rhebhick:designing and idea
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
